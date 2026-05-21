@@ -1,20 +1,22 @@
-#NETWORK_SCANNER
-A Python based netwokr scanner created to scan your domestic network
+# Network Scanner
+A Python based network scanner created to scan your local network
 
-#features..
--ARP scan ,gives you the MAC adress with discovered ip
--port detection , scan the open ports for a device 
--clean connection reset after scanning
+## Features
+- ARP scan, gives you the MAC address with discovered IP
+- Tells if the host is live or not
+- Port detection, scans the open ports for a device
+- Clean connection reset after scanning
 
-#requirments
--python 3.x
--scapy installed
--root privileges
--local network you have permission of
+## Requirements
+- Python 3.x
+- Scapy installed
+- Root privileges
+- Local network you have permission to scan
 
-#WARNING
-This tool is made for educational purposes only
-you should use it on a network you have permission to scan / network you own
-without permission scanning is illegal
+## Warning
+This tool is made for educational purposes only.
+Only use on networks you own or have permission to scan.
+Without permission, scanning is illegal.
 
-AUTHOR- Harshit gupta
+## Author
+Harshit Gupta
